@@ -1,10 +1,9 @@
-**Exercícios de Python para Iniciantes** 🐍 
+## **Exercícios de Python para Iniciantes** 🐍 
 
 Bem-vindo(a) ao repositório Exercícios de Python para Iniciantes! 🎉 Criei este repositório pensando em ajudar pessoas que, assim como eu, estão começando na programação a aprender e praticar Python, uma das linguagens mais populares e acessíveis do mundo. Aqui, você encontrará diversos 20 exercícios básicos organizados por tópicos para facilitar o aprendizado passo a passo.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Conteúdo do Repositório** 📝 
+## **Conteúdo do Repositório** 📝 
 
 Os exercícios estão divididos em tópicos essenciais para o desenvolvimento de habilidades em Python. Cada tópico contém 20 exercícios cuidadosamente elaborados, com resoluções ao final. Os tópicos são:
 
@@ -26,9 +25,9 @@ Os exercícios estão divididos em tópicos essenciais para o desenvolvimento de
 
 Além disso, estou constantemente pensando em adicionar novos tópicos para expandir o repositório e assim ajudar mais aos futuros programadores! 🚀
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Para quem é este repositório?** 📚 
+
+## **Para quem é este repositório?** 📚 
 
 Este repositório é perfeito para:
 
@@ -40,13 +39,14 @@ Este repositório é perfeito para:
 
 Se você está apenas começando, não se preocupe! Os exercícios são fáceis de entender, e todos os códigos apresentam comentários para explicar o que exatamente está acontecendo naquele código.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Como Usar os Exercícios** 🛠️ 
+
+## **Como Usar os Exercícios** 🛠️ 
 
 1. Clone este repositório para o seu ambiente local:
-   ```bash
+```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
+````
 
 2. Escolha o tópico que você deseja estudar.
 
@@ -56,17 +56,19 @@ Se você está apenas começando, não se preocupe! Os exercícios são fáceis 
 
 **DICA**: Sempre tente resolver os exercícios sozinho(a) antes de olhar as respostas! É praticando que se aprende! **NUNCA** se esqueça da base 😉
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Contribua com o Repositório** 🌟 
+
+## **Contribua com o Repositório** 🌟 
+
 Se você tiver ideias de novos exercícios ou melhorias, sinta-se à vontade para contribuir! Basta seguir os passos abaixo:
 
 1. Faça um fork do repositório.
 
 
 2. Crie um branch para sua feature:
-   ```bash
-   git checkout -b minha-feature
+ ```bash
+ git checkout -b minha-feature
+````
 
 
 3. Envie suas alterações:
@@ -78,9 +80,9 @@ git push origin minha-feature
 
 4. Abra um pull request e descreva suas contribuições.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Agradecimentos** 🙌 
+
+## **Agradecimentos** 🙌 
 
 A minha ideia com este repositório é criar uma comunidade de aprendizado colaborativo. Se esses exercícios ajudaram você, deixe uma estrela ⭐ no repositório e compartilhe com outras pessoas que também estão aprendendo Python assim como eu! **Juntos somos mais fortes** 💪🏻!!
 
