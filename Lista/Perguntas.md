@@ -1,39 +1,43 @@
-1-Crie uma lista com 10 números inteiros aleatórios.
+## **Lista de Exercícios** 📋 
 
-2-Acesse o terceiro elemento de uma lista e exiba-o.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3-Adicione um número ao final de uma lista usando o método append.
+1. **Crie uma lista com 10 números inteiros aleatórios.**
 
-4-Insira o número 50 na segunda posição de uma lista.
+2. **Acesse o terceiro elemento de uma lista e exiba-o.**
 
-5-Remova o último elemento de uma lista usando o método pop.
+3. **Adicione um número ao final de uma lista usando o método `append`.**
 
-6-Remova o número 20 de uma lista (se existir).
+4. **Insira o número 50 na segunda posição de uma lista.**
 
-7-Verifique se o número 15 está presente em uma lista.
+5. **Remova o último elemento de uma lista usando o método `pop`.**
 
-8-Inverta a ordem dos elementos de uma lista.
+6. **Remova o número 20 de uma lista (se existir).**
 
-9-Ordene uma lista de números em ordem crescente.
+7. **Verifique se o número 15 está presente em uma lista.**
 
-10-Ordene uma lista de números em ordem decrescente.
+8. **Inverta a ordem dos elementos de uma lista.**
 
-11-Crie uma lista contendo apenas os números pares de outra lista.
+9. **Ordene uma lista de números em ordem crescente.**
 
-12-Concatene duas listas em uma única lista.
+10. **Ordene uma lista de números em ordem decrescente.**
 
-13-Encontre o maior número em uma lista.
+11. **Crie uma lista contendo apenas os números pares de outra lista.**
 
-14-Encontre o menor número em uma lista.
+12. **Concatene duas listas em uma única lista.**
 
-15-Faça a soma de todos os números de uma lista.
+13. **Encontre o maior número em uma lista.**
 
-16-Obtenha o comprimento de uma lista.
+14. **Encontre o menor número em uma lista.**
 
-17-Duplique os elementos de uma lista.
+15. **Faça a soma de todos os números de uma lista.**
 
-18-Encontre o índice da primeira ocorrência do número 10 em uma lista.
+16. **Obtenha o comprimento de uma lista.**
 
-19-Substitua o quarto elemento de uma lista pelo número 99.
+17. **Duplique os elementos de uma lista.**
 
-20-Limpe todos os elementos de uma lista usando o método clear
+18. **Encontre o índice da primeira ocorrência do número 10 em uma lista.**
+
+19. **Substitua o quarto elemento de uma lista pelo número 99.**
+
+20. **Limpe todos os elementos de uma lista usando o método `clear`.**
