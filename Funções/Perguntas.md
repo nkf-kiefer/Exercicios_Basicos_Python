@@ -1,39 +1,43 @@
-Crie uma função que receba dois números e retorne a soma deles.
+## **Lista de Exercícios** 📋 
 
-Faça uma função que receba uma lista de números e retorne o maior número.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Escreva uma função que verifique se um número é par ou ímpar.
+1. **Crie uma função que receba dois números e retorne a soma deles.**
 
-Desenvolva uma função que calcule a área de um retângulo.
+2. **Faça uma função que receba uma lista de números e retorne o maior número.**
 
-Crie uma função que receba uma string e retorne a quantidade de vogais nela.
+3. **Escreva uma função que verifique se um número é par ou ímpar.**
 
-Escreva uma função que retorne o fatorial de um número.
+4. **Desenvolva uma função que calcule a área de um retângulo.**
 
-Faça uma função que receba um número e verifique se ele é primo.
+5. **Crie uma função que receba uma string e retorne a quantidade de vogais nela.**
 
-Desenvolva uma função que conte o número de palavras em uma frase.
+6. **Escreva uma função que retorne o fatorial de um número.**
 
-Crie uma função que receba uma lista e retorne a soma de seus elementos.
+7. **Faça uma função que receba um número e verifique se ele é primo.**
 
-Faça uma função que converta uma temperatura de Celsius para Fahrenheit.
+8. **Desenvolva uma função que conte o número de palavras em uma frase.**
 
-Escreva uma função que receba uma lista e retorne os números pares nela.
+9. **Crie uma função que receba uma lista e retorne a soma de seus elementos.**
 
-Crie uma função recursiva para calcular o fatorial de um número.
+10. **Faça uma função que converta uma temperatura de Celsius para Fahrenheit.**
 
-Desenvolva uma função que inverta a ordem dos caracteres em uma string.
+11. **Escreva uma função que receba uma lista e retorne os números pares nela.**
 
-Faça uma função que retorne a média de uma lista de números.
+12. **Crie uma função recursiva para calcular o fatorial de um número.**
 
-Escreva uma função que receba uma string e retorne se ela é um palíndromo.
+13. **Desenvolva uma função que inverta a ordem dos caracteres em uma string.**
 
-Crie uma função que multiplique todos os números de uma lista por um valor fornecido.
+14. **Faça uma função que retorne a média de uma lista de números.**
 
-Escreva uma função que encontre o maior valor e sua posição em uma lista.
+15. **Escreva uma função que receba uma string e retorne se ela é um palíndromo.**
 
-Faça uma função que receba uma lista de strings e retorne uma lista com os comprimentos delas.
+16. **Crie uma função que multiplique todos os números de uma lista por um valor fornecido.**
 
-Desenvolva uma função que calcule o valor total de uma compra, dado um dicionário com os preços dos produtos e suas quantidades.
+17. **Escreva uma função que encontre o maior valor e sua posição em uma lista.**
 
-Escreva uma função que receba duas listas e retorne uma lista contendo os elementos comuns entre elas.
+18. **Faça uma função que receba uma lista de strings e retorne uma lista com os comprimentos delas.**
+
+19. **Desenvolva uma função que calcule o valor total de uma compra, dado um dicionário com os preços dos produtos e suas quantidades.**
+
+20. **Escreva uma função que receba duas listas e retorne uma lista contendo os elementos comuns entre elas.**

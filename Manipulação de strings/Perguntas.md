@@ -1,39 +1,43 @@
-Converta uma string para letras maiúsculas.
+## **Lista de Exercícios** 📋 
 
-Converta uma string para letras minúsculas.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Verifique se uma string começa com uma palavra específica.
+1. **Converta uma string para letras maiúsculas.**
 
-Verifique se uma string termina com um ponto (.).
+2. **Converta uma string para letras minúsculas.**
 
-Divida uma frase em uma lista de palavras.
+3. **Verifique se uma string começa com uma palavra específica.**
 
-Substitua todas as ocorrências de uma palavra em uma string por outra.
+4. **Verifique se uma string termina com um ponto (`.`).**
 
-Remova os espaços extras de ambos os lados de uma string.
+5. **Divida uma frase em uma lista de palavras.**
 
-Inverta os caracteres de uma string.
+6. **Substitua todas as ocorrências de uma palavra em uma string por outra.**
 
-Extraia os três primeiros caracteres de uma string.
+7. **Remova os espaços extras de ambos os lados de uma string.**
 
-Verifique se uma string contém apenas números.
+8. **Inverta os caracteres de uma string.**
 
-Concatene duas strings com um espaço entre elas.
+9. **Extraia os três primeiros caracteres de uma string.**
 
-Conte quantas vezes um caractere aparece em uma string.
+10. **Verifique se uma string contém apenas números.**
 
-Encontre a posição da primeira ocorrência de uma letra em uma string.
+11. **Concatene duas strings com um espaço entre elas.**
 
-Substitua todas as vogais de uma string por asteriscos (*).
+12. **Conte quantas vezes um caractere aparece em uma string.**
 
-Remova todos os números de uma string.
+13. **Encontre a posição da primeira ocorrência de uma letra em uma string.**
 
-Verifique se uma string possui apenas letras e números.
+14. **Substitua todas as vogais de uma string por asteriscos (`*`).**
 
-Divida uma string por vírgulas e transforme em uma lista.
+15. **Remova todos os números de uma string.**
 
-Converta uma lista de palavras em uma única string, separando-as por espaços.
+16. **Verifique se uma string possui apenas letras e números.**
 
-Formate uma string para incluir valores de variáveis.
+17. **Divida uma string por vírgulas e transforme em uma lista.**
 
-Encontre o comprimento de uma string.
+18. **Converta uma lista de palavras em uma única string, separando-as por espaços.**
+
+19. **Formate uma string para incluir valores de variáveis.**
+
+20. **Encontre o comprimento de uma string.**

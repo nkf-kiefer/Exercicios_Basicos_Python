@@ -1,39 +1,43 @@
-Verifique se um número é maior que 10 e menor que 20 usando operadores lógicos.
+## **Lista de Exercícios** 📋 
 
-Crie uma expressão que retorne verdadeiro se uma string começar com 'A' e terminar com 'Z'.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Teste se um número é par e maior que 100.
+1. **Verifique se um número é maior que 10 e menor que 20 usando operadores lógicos.**
 
-Verifique se um número é múltiplo de 3 ou de 5.
+2. **Crie uma expressão que retorne verdadeiro se uma string começar com 'A' e terminar com 'Z'.**
 
-Teste se uma lista não está vazia.
+3. **Teste se um número é par e maior que 100.**
 
-Combine operadores lógicos para verificar se um número está entre 50 e 100 e é divisível por 5.
+4. **Verifique se um número é múltiplo de 3 ou de 5.**
 
-Escreva uma condição que valide se dois números são positivos.
+5. **Teste se uma lista não está vazia.**
 
-Verifique se uma string contém a palavra "Python" ou "programação".
+6. **Combine operadores lógicos para verificar se um número está entre 50 e 100 e é divisível por 5.**
 
-Combine operadores para verificar se o comprimento de uma lista é maior que 5 e o primeiro elemento é maior que 10.
+7. **Escreva uma condição que valide se dois números são positivos.**
 
-Teste se um número não é menor que zero.
+8. **Verifique se uma string contém a palavra "Python" ou "programação".**
 
-Verifique se um caractere não está contido em uma string.
+9. **Combine operadores para verificar se o comprimento de uma lista é maior que 5 e o primeiro elemento é maior que 10.**
 
-Crie uma condição que valide se todos os números em uma lista são pares.
+10. **Teste se um número não é menor que zero.**
 
-Combine operadores lógicos para verificar se uma lista contém números negativos e números positivos.
+11. **Verifique se um caractere não está contido em uma string.**
 
-Valide se o número inserido pelo usuário está entre 1 e 10 ou entre 20 e 30.
+12. **Crie uma condição que valide se todos os números em uma lista são pares.**
 
-Teste se o comprimento de uma palavra é menor que 4 e a palavra começa com a letra 'b'.
+13. **Combine operadores lógicos para verificar se uma lista contém números negativos e números positivos.**
 
-Verifique se uma lista contém um elemento específico ou se o comprimento da lista é maior que 10.
+14. **Valide se o número inserido pelo usuário está entre 1 e 10 ou entre 20 e 30.**
 
-Teste se a soma de dois números não é igual a 100.
+15. **Teste se o comprimento de uma palavra é menor que 4 e a palavra começa com a letra 'b'.**
 
-Combine condições para validar se um número é maior que 5, menor que 50, e múltiplo de 10.
+16. **Verifique se uma lista contém um elemento específico ou se o comprimento da lista é maior que 10.**
 
-Verifique se uma string não é vazia e contém apenas letras maiúsculas.
+17. **Teste se a soma de dois números não é igual a 100.**
 
-Escreva uma condição que valide se o elemento de índice 0 de uma lista não é igual ao elemento de índice -1.
+18. **Combine condições para validar se um número é maior que 5, menor que 50, e múltiplo de 10.**
+
+19. **Verifique se uma string não é vazia e contém apenas letras maiúsculas.**
+
+20. **Escreva uma condição que valide se o elemento de índice 0 de uma lista não é igual ao elemento de índice -1.**

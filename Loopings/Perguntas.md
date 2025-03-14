@@ -1,39 +1,43 @@
-Utilize um loop for para imprimir os números de 1 a 10.
+## **Lista de Exercícios** 📋 
 
-Crie um loop que percorra uma lista de números e imprima apenas os números pares.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Use um loop while para exibir os números de 1 a 5.
+1. **Utilize um loop `for` para imprimir os números de 1 a 10.**
 
-Itere sobre uma string e exiba cada caractere individualmente.
+2. **Crie um loop que percorra uma lista de números e imprima apenas os números pares.**
 
-Utilize break para interromper um loop quando um número maior que 50 for encontrado em uma lista.
+3. **Use um loop `while` para exibir os números de 1 a 5.**
 
-Use continue para pular os números múltiplos de 3 em um loop de 1 a 20.
+4. **Itere sobre uma string e exiba cada caractere individualmente.**
 
-Crie um loop que soma os números de 1 a 100.
+5. **Utilize `break` para interromper um loop quando um número maior que 50 for encontrado em uma lista.**
 
-Itere sobre um dicionário e exiba as chaves e valores.
+6. **Use `continue` para pular os números múltiplos de 3 em um loop de 1 a 20.**
 
-Utilize dois loops for aninhados para gerar uma tabela de multiplicação (1 a 10).
+7. **Crie um loop que soma os números de 1 a 100.**
 
-Use um loop para criar uma lista contendo os quadrados dos números de 1 a 10.
+8. **Itere sobre um dicionário e exiba as chaves e valores.**
 
-Crie um loop que conte quantos números negativos existem em uma lista.
+9. **Utilize dois loops `for` aninhados para gerar uma tabela de multiplicação (1 a 10).**
 
-Use um loop para encontrar o maior número de uma lista.
+10. **Use um loop para criar uma lista contendo os quadrados dos números de 1 a 10.**
 
-Crie um loop que inverta uma string (sem usar slicing).
+11. **Crie um loop que conte quantos números negativos existem em uma lista.**
 
-Itere sobre uma lista e calcule a média dos números.
+12. **Use um loop para encontrar o maior número de uma lista.**
 
-Use um while para pedir ao usuário que insira números até que ele digite "sair".
+13. **Crie um loop que inverta uma string (sem usar slicing).**
 
-Crie um loop para imprimir uma pirâmide de asteriscos com 5 níveis.
+14. **Itere sobre uma lista e calcule a média dos números.**
 
-Utilize um loop para contar quantas vogais existem em uma frase fornecida.
+15. **Use um `while` para pedir ao usuário que insira números até que ele digite "sair".**
 
-Itere por uma lista e remova os números menores que 10 (use cópia da lista para evitar problemas).
+16. **Crie um loop para imprimir uma pirâmide de asteriscos com 5 níveis.**
 
-Crie um loop que percorra os elementos de duas listas simultaneamente (use zip).
+17. **Utilize um loop para contar quantas vogais existem em uma frase fornecida.**
 
-Construa um loop que simule o lançamento de um dado 10 vezes e exiba os resultados.
+18. **Itere por uma lista e remova os números menores que 10 (use cópia da lista para evitar problemas).**
+
+19. **Crie um loop que percorra os elementos de duas listas simultaneamente (use `zip`).**
+
+20. **Construa um loop que simule o lançamento de um dado 10 vezes e exiba os resultados.**
